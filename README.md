@@ -1,0 +1,1 @@
+# Boilerplate created for 2d game development using Melon.JS

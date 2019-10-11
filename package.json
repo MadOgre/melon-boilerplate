@@ -1,0 +1,17 @@
+{
+  "name": "melon-boilerplate",
+  "version": "0.1.0",
+  "description": "Boilerplate created for 2d game development using Melon.JS",
+  "main": "main.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadOgre/melon-boilerplate.git"
+  },
+  "author": "Mike Semko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadOgre/melon-boilerplate/issues"
+  },
+  "homepage": "https://github.com/MadOgre/melon-boilerplate#readme"
+}
